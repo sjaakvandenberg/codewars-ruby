@@ -1,4 +1,4 @@
-# 41_list_filtering.rb
+# 029_list_filtering.rb
 # http://www.codewars.com/kata/list-filtering
 #
 # Sjaak van den Berg

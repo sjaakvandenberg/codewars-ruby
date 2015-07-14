@@ -1,4 +1,4 @@
-# 12_counting_power_sets.rb
+# 008_counting_power_sets.rb
 # http://www.codewars.com/kata/counting-power-sets
 #
 # Sjaak van den Berg

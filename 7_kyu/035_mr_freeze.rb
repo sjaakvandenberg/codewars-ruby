@@ -1,4 +1,4 @@
-# 47_mr_freeze.rb
+# 035_mr_freeze.rb
 # http://www.codewars.com/kata/mr-freeze
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 40_vowel_count.rb
+# 028_vowel_count.rb
 # http://www.codewars.com/kata/vowel-count
 #
 # Sjaak van den Berg

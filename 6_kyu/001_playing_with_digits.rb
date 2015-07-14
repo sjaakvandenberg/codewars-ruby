@@ -1,4 +1,4 @@
-# 17_playing_with_digits.rb
+# 001_playing_with_digits.rb
 # http://www.codewars.com/kata/playing-with-digits
 #
 # Sjaak van den Berg

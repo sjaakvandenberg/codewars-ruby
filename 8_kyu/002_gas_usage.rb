@@ -1,4 +1,4 @@
-# 04_gas_usage.rb
+# 002_gas_usage.rb
 # http://www.codewars.com/kata/miles-per-gallon-to-kilometers-per-liter
 #
 # Sjaak van den Berg

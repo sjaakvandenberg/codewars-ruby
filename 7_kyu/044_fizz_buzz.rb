@@ -1,4 +1,4 @@
-# 56_fizz_buzz.rb
+# 044_fizz_buzz.rb
 # http://www.codewars.com/kata/fizz-buzz
 #
 # Sjaak van den Berg

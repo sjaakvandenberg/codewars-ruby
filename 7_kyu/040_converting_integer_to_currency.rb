@@ -1,4 +1,4 @@
-# 52_converting_integer_to_currency.rb
+# 040_converting_integer_to_currency.rb
 # http://www.codewars.com/kata/converting-integer-to-currency-format
 #
 # Sjaak van den Berg

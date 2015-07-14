@@ -1,4 +1,4 @@
-# 45_nato_phonetic_alphabet.rb
+# 033_nato_phonetic_alphabet.rb
 # http://www.codewars.com/kata/nato-phonetic-alphabet
 #
 # Sjaak van den Berg

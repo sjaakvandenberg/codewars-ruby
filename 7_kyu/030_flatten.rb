@@ -1,4 +1,4 @@
-# 42_flatten.rb
+# 030_flatten.rb
 # http://www.codewars.com/kata/flatten-1
 #
 # Sjaak van den Berg

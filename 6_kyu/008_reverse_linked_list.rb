@@ -1,4 +1,4 @@
-# 26_reverse_linked_list.rb
+# 008_reverse_linked_list.rb
 # http://www.codewars.com/kata/reverse-linked-list
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 15_find_duplicates.rb
+# 011_find_duplicates.rb
 # http://www.codewars.com/kata/find-duplicates
 #
 # Sjaak van den Berg

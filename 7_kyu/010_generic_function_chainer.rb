@@ -1,4 +1,4 @@
-# 14_generic_function_chainer.rb
+# 010_generic_function_chainer.rb
 # http://www.codewars.com/kata/chain-me
 #
 # Sjaak van den Berg

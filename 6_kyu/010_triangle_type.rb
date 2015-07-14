@@ -1,4 +1,4 @@
-# 59_triangle_type.rb
+# 010_triangle_type.rb
 # http://www.codewars.com/kata/triangle-type
 #
 # Sjaak van den Berg

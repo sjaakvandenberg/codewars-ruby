@@ -1,4 +1,4 @@
-# 25_sum_first_nth_term.rb
+# 014_sum_first_nth_term.rb
 # http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series
 #
 # Sjaak van den Berg

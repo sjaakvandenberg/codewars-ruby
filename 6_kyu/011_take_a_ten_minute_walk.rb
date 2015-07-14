@@ -1,4 +1,4 @@
-# 60_take_a_ten_minute_walk.rb
+# 011_take_a_ten_minute_walk.rb
 # http://www.codewars.com/kata/take-a-ten-minute-walk
 #
 # Sjaak van den Berg

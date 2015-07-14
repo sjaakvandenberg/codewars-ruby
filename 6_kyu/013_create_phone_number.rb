@@ -1,4 +1,4 @@
-# 62_create_phone_number.rb
+# 013_create_phone_number.rb
 # http://www.codewars.com/kata/create-phone-number
 #
 # Sjaak van den Berg

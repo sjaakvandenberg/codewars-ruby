@@ -1,4 +1,4 @@
-# 11_complete_the_pattern.rb
+# 007_complete_the_pattern.rb
 # http://www.codewars.com/kata/complete-the-pattern-number-1
 #
 # Sjaak van den Berg

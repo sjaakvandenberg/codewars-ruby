@@ -1,4 +1,4 @@
-# 39_digitize.rb
+# 027_digitize.rb
 # http://www.codewars.com/kata/digitize
 #
 # Sjaak van den Berg

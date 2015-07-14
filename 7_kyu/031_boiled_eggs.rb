@@ -1,4 +1,4 @@
-# 43_boiled_eggs.rb
+# 031_boiled_eggs.rb
 # http://www.codewars.com/kata/boiled-eggs
 #
 # Sjaak van den Berg

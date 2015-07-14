@@ -1,4 +1,4 @@
-# 36_you_are_a_square.rb
+# 024_you_are_a_square.rb
 # http://www.codewars.com/kata/youre-a-square
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 50_get_key_value_pairs.rb
+# 038_get_key_value_pairs.rb
 # http://www.codewars.com/kata/get-key-slash-value-pairs-as-arrays
 #
 # Sjaak van den Berg

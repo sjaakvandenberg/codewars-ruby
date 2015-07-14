@@ -1,4 +1,4 @@
-# 24_twisted_sum.rb
+# 007_twisted_sum.rb
 # http://www.codewars.com/kata/twisted-sum
 #
 # Sjaak van den Berg

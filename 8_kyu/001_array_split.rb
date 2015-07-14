@@ -1,4 +1,4 @@
-# 03_array_split.rb
+# 001_array_split.rb
 # http://www.codewars.com/kata/enumerable-magic-number-30-split-that-array
 #
 # Sjaak van den Berg

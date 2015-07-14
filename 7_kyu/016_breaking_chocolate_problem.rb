@@ -1,4 +1,4 @@
-# 28_breaking_chocolate_problem.rb
+# 016_breaking_chocolate_problem.rb
 # http://www.codewars.com/kata/breaking-chocolate-problem
 #
 # Sjaak van den Berg

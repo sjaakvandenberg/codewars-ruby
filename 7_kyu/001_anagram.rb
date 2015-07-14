@@ -1,4 +1,4 @@
-# 01_anagram.rb
+# 001_anagram.rb
 # http://www.codewars.com/kata/anagram-detection
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 27_credit_card_mask.rb
+# 015_credit_card_mask.rb
 # http://www.codewars.com/kata/credit-card-mask
 #
 # Sjaak van den Berg

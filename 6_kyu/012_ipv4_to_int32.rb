@@ -1,4 +1,4 @@
-# 61_ipv4_to_int32.rb
+# 012_ipv4_to_int32.rb
 # http://www.codewars.com/kata/ipv4-to-int32
 #
 # Sjaak van den Berg

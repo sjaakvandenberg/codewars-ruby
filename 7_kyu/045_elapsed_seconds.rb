@@ -1,4 +1,4 @@
-# 57_elapsed_seconds.rb
+# 045_elapsed_seconds.rb
 # http://www.codewars.com/kata/elapsed-seconds
 #
 # Sjaak van den Berg

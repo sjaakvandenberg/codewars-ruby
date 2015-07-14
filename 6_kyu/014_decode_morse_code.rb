@@ -1,4 +1,4 @@
-# 63_decode_morse_code.rb
+# 014_decode_morse_code.rb
 # http://www.codewars.com/kata/decode-the-morse-code
 #
 # Sjaak van den Berg

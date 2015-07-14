@@ -1,4 +1,4 @@
-# 31_disemvowel_trolls.rb
+# 019_disemvowel_trolls.rb
 # http://www.codewars.com/kata/disemvowel-trolls
 #
 # Sjaak van den Berg

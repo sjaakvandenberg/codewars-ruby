@@ -1,4 +1,4 @@
-# 38_caffeine_script.rb
+# 026_caffeine_script.rb
 # http://www.codewars.com/kata/caffeine-script
 #
 # Sjaak van den Berg

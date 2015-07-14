@@ -1,4 +1,4 @@
-# 08_partial_word_searching.rb
+# 004_partial_word_searching.rb
 # http://www.codewars.com/kata/partial-word-searching
 #
 # Sjaak van den Berg

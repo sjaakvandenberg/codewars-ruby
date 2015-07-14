@@ -1,4 +1,4 @@
-# 09_reopen_class.rb
+# 005_reopen_class.rb
 # http://www.codewars.com/kata/re-open-class
 #
 # Sjaak van den Berg

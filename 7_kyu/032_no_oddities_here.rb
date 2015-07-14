@@ -1,4 +1,4 @@
-# 44_no_oddities_here.rb
+# 032_no_oddities_here.rb
 # http://www.codewars.com/kata/no-oddities-here
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 49_greet_me.rb
+# 037_greet_me.rb
 # http://www.codewars.com/kata/greet-me
 #
 # Sjaak van den Berg

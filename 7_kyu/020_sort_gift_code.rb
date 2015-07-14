@@ -1,4 +1,4 @@
-# 32_sort_gift_code.rb
+# 020_sort_gift_code.rb
 # http://www.codewars.com/kata/sort-the-gift-code
 #
 # Sjaak van den Berg

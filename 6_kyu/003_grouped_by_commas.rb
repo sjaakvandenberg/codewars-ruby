@@ -1,4 +1,4 @@
-# 19_grouped_by_commas.rb
+# 003_grouped_by_commas.rb
 # http://www.codewars.com/kata/grouped-by-commas
 #
 # Sjaak van den Berg

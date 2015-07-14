@@ -1,4 +1,4 @@
-# 29_jaden_casing_strings.rb
+# 017_jaden_casing_strings.rb
 # http://www.codewars.com/kata/jaden-casing-strings
 #
 # Sjaak van den Berg

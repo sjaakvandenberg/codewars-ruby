@@ -1,4 +1,4 @@
-# 51_sum_of_all_arguments.rb
+# 039_sum_of_all_arguments.rb
 # http://www.codewars.com/kata/sum-of-all-arguments
 #
 # Sjaak van den Berg

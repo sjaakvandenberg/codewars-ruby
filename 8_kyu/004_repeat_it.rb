@@ -1,4 +1,4 @@
-# 06_repeat_it.rb
+# 004_repeat_it.rb
 # http://www.codewars.com/kata/repeatit
 #
 # Sjaak van den Berg

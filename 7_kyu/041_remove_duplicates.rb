@@ -1,4 +1,4 @@
-# 53_remove_duplicates.rb
+# 041_remove_duplicates.rb
 # http://www.codewars.com/kata/remove-duplicates
 #
 # Sjaak van den Berg

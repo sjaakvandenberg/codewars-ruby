@@ -1,4 +1,4 @@
-# 46_area_of_a_circle.rb
+# 034_area_of_a_circle.rb
 # http://www.codewars.com/kata/area-of-a-circle
 #
 # Sjaak van den Berg

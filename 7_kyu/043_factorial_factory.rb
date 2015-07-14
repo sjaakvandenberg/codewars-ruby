@@ -1,4 +1,4 @@
-# 55_factorial_factory.rb
+# 043_factorial_factory.rb
 # http://www.codewars.com/kata/factorial-factory
 #
 # Sjaak van den Berg

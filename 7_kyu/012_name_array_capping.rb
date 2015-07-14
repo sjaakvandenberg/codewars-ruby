@@ -1,4 +1,4 @@
-# 16_name_array_capping.rb
+# 012_name_array_capping.rb
 # http://www.codewars.com/kata/name-array-capping
 #
 # Sjaak van den Berg

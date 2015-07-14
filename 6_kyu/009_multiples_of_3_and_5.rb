@@ -1,4 +1,4 @@
-# 58_multiples_of_3_and_5.rb
+# 009_multiples_of_3_and_5.rb
 # http://www.codewars.com/kata/multiples-of-3-and-5
 #
 # Sjaak van den Berg

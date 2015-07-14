@@ -1,4 +1,4 @@
-# 05_vowel_removed.rb
+# 003_vowel_removed.rb
 # http://www.codewars.com/kata/vowel-remover
 #
 # Sjaak van den Berg

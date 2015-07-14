@@ -1,4 +1,4 @@
-# 22_title_case.rb
+# 005_title_case.rb
 # http://www.codewars.com/kata/title-case
 #
 # Sjaak van den Berg

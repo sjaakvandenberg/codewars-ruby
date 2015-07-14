@@ -1,4 +1,4 @@
-# 13_collatz_conjecture_length.rb
+# 009_collatz_conjecture_length.rb
 # http://www.codewars.com/kata/collatz-conjecture-length
 #
 # Sjaak van den Berg

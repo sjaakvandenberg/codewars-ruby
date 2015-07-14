@@ -1,4 +1,4 @@
-# 35_unpacking_arguments.rb
+# 023_unpacking_arguments.rb
 # http://www.codewars.com/kata/unpacking-arguments
 #
 # Sjaak van den Berg

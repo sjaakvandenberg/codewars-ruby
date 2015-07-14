@@ -1,4 +1,4 @@
-# 37_candy_problem.rb
+# 025_candy_problem.rb
 # http://www.codewars.com/kata/candy-problem
 #
 # Sjaak van den Berg

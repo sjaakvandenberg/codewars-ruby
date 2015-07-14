@@ -1,4 +1,4 @@
-# 21_square_every_digit.rb
+# 013_square_every_digit.rb
 # http://www.codewars.com/kata/square-every-digit
 #
 # Sjaak van den Berg

@@ -1,4 +1,4 @@
-# 33_vampire_numbers.rb
+# 021_vampire_numbers.rb
 # http://www.codewars.com/kata/vampire-numbers-1
 #
 # Sjaak van den Berg

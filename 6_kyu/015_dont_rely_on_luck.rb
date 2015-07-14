@@ -1,4 +1,4 @@
-# 64_dont_rely_on_luck.rb
+# 015_dont_rely_on_luck.rb
 # http://www.codewars.com/kata/dont-rely-on-luck
 #
 # Sjaak van den Berg

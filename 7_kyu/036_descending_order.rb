@@ -1,4 +1,4 @@
-# 48_descending_order.rb
+# 036_descending_order.rb
 # http://www.codewars.com/kata/descending-order
 #
 # Sjaak van den Berg

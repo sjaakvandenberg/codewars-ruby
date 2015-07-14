@@ -1,4 +1,4 @@
-# 34_triangular_treasure.rb
+# 022_triangular_treasure.rb
 # http://www.codewars.com/kata/triangular-treasure
 #
 # Sjaak van den Berg

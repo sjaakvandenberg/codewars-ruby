@@ -1,4 +1,4 @@
-# 18_directions_reduction.rb
+# 002_directions_reduction.rb
 # http://www.codewars.com/kata/directions-reduction
 #
 # Sjaak van den Berg

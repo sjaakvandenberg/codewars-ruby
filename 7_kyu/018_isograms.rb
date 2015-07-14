@@ -1,4 +1,4 @@
-# 30_isograms.rb
+# 018_isograms.rb
 # http://www.codewars.com/kata/isograms
 #
 # Sjaak van den Berg

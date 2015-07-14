@@ -1,4 +1,4 @@
-# 07_length_of_sequence.rb
+# 003_length_of_sequence.rb
 # http://www.codewars.com/kata/finding-length-of-the-sequence
 #
 # Sjaak van den Berg

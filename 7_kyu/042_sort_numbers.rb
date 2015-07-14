@@ -1,4 +1,4 @@
-# 54_sort_numbers.rb
+# 042_sort_numbers.rb
 # http://www.codewars.com/kata/sort-numbers
 #
 # Sjaak van den Berg

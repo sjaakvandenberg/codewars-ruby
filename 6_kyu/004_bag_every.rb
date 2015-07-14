@@ -1,4 +1,4 @@
-# 20_bag_every.rb
+# 004_bag_every.rb
 # http://www.codewars.com/kata/bag-number-every
 #
 # Sjaak van den Berg

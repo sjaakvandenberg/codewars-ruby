@@ -1,4 +1,4 @@
-# 23_repeated_substring.rb
+# 006_repeated_substring.rb
 # http://www.codewars.com/kata/repeated-substring
 #
 # Sjaak van den Berg

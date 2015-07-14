@@ -1,4 +1,4 @@
-# 02_pattern_test.rb
+# 002_pattern_test.rb
 
 require_relative '02_pattern'
 require 'test/unit'

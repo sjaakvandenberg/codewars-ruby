@@ -1,4 +1,4 @@
-# 10_line_type_parser.rb
+# 006_line_type_parser.rb
 # http://www.codewars.com/kata/line-type-parser
 #
 # Sjaak van den Berg
